@@ -35,7 +35,7 @@ The webpage includes a navigation bar, headings, text formatting, hyperlinks, im
 project-folder/
 │── index.html
 │── HTML-icon.png
-│── CICD.png
+│── front end.png
 │── audio.mp3
 │── video.mp4
 └── README.md
