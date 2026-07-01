@@ -36,8 +36,6 @@ project-folder/
 │── index.html
 │── HTML-icon.png
 │── front end.png
-│── audio.mp3
-│── video.mp4
 └── README.md
 ```
 
